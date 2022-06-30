@@ -3,3 +3,5 @@
 Hello world!
 
 New change
+
+A separate change
